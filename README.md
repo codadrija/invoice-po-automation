@@ -128,4 +128,4 @@ UiPath Maestro · UiPath Agents (LLM-based) · UiPath Data Fabric · Integration
 
 ## Author
 
-Adrija Mandal · [GitHub](https://github.com/codadrija) · [LinkedIn](www.linkedin.com/in/adrija-mandal-37202a326)
+Adrija Mandal · [GitHub](https://github.com/codadrija) · [LinkedIn](https://www.linkedin.com/in/adrija-mandal-37202a326)
