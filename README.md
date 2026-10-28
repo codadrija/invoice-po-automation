@@ -23,7 +23,7 @@ Built with **UiPath Maestro, Agents, Data Fabric and Integration Service (Gmail)
 
 ## Flow diagram
 
-![Flow canvas](docs/screenshots/flow-canvas.png)
+![Flow canvas](screenshots/flow-canvas.png)
 
 | Step | Node | Type | Purpose |
 |------|------|------|---------|
@@ -43,7 +43,7 @@ Built with **UiPath Maestro, Agents, Data Fabric and Integration Service (Gmail)
 
 A successful run, with timing for every step:
 
-![Execution trace](docs/screenshots/execution-trace.png)
+![Execution trace](screenshots/execution-trace.png)
 
 ## Repository structure
 
