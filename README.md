@@ -50,6 +50,9 @@ A successful run, with timing for every step:
 ```
 invoice-po-automation/
 ├── README.md
+├── screenshots/
+│   ├── flow-canvas.png
+│   └── execution-trace.png
 ├── solution/
 │   └── Automatrix.uis              # UiPath solution package (flow + agents)
 ├── data/
@@ -62,8 +65,7 @@ invoice-po-automation/
 ├── test-inputs/
 │   └── Input_Mails.docx            # Sample invoice emails for testing
 └── docs/
-    ├── Project_Building_Guide.docx # Full build guide with prompts and schemas
-    └── screenshots/
+    └── Project_Building_Guide.docx # Full build guide with prompts and schemas
 ```
 
 ## Data model
